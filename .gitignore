@@ -2,3 +2,6 @@
 /[A-Z]
 **.log
 **.txt
+archive.log
+**/.vscode
+archive.log

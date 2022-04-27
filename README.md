@@ -13,5 +13,6 @@ Outline:
 9. Check to see if there are errors. If so, forcibly and recursively delete all erroneous 7z files.
 
 Feature Enhancements:
-[ ] Support user entered root domain.
-    [ ] Push user submission into 7z call, clean up, Remove-Item.... etc
+
+- [ ] Support user entered root domain.
+- [ ] Push user submission into 7z call, clean up, Remove-Item.... etc
