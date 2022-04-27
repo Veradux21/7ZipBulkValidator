@@ -5,3 +5,5 @@
 archive.log
 **/.vscode
 archive.log
+**/v1.ps1
+TestingScript.ps1
